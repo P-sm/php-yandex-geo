@@ -1,5 +1,5 @@
 {
-    "name": "yandex/geo",
+    "name": "P-sm/php-yandex-geo",
     "type": "library",
     "description": "PHP-library for interactions with geo-coding Yandex.Maps",
     "keywords": ["api", "yandex", "geo", "geocode", "geocoder", "maps"],
